@@ -1,0 +1,15 @@
+e:\SUMMER_2023\C#\csharp_24-4\bai5\bin\Debug\net7.0\bai5.exe
+e:\SUMMER_2023\C#\csharp_24-4\bai5\bin\Debug\net7.0\bai5.deps.json
+e:\SUMMER_2023\C#\csharp_24-4\bai5\bin\Debug\net7.0\bai5.runtimeconfig.json
+e:\SUMMER_2023\C#\csharp_24-4\bai5\bin\Debug\net7.0\bai5.dll
+e:\SUMMER_2023\C#\csharp_24-4\bai5\bin\Debug\net7.0\bai5.pdb
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.csproj.AssemblyReference.cache
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.GeneratedMSBuildEditorConfig.editorconfig
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.AssemblyInfoInputs.cache
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.AssemblyInfo.cs
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.csproj.CoreCompileInputs.cache
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.dll
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\refint\bai5.dll
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.pdb
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\bai5.genruntimeconfig.cache
+e:\SUMMER_2023\C#\csharp_24-4\bai5\obj\Debug\net7.0\ref\bai5.dll

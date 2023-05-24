@@ -1,0 +1,15 @@
+E:\SUMMER_2023\C#\csharp_24-4\bai4\bin\Debug\net7.0\bai4.exe
+E:\SUMMER_2023\C#\csharp_24-4\bai4\bin\Debug\net7.0\bai4.deps.json
+E:\SUMMER_2023\C#\csharp_24-4\bai4\bin\Debug\net7.0\bai4.runtimeconfig.json
+E:\SUMMER_2023\C#\csharp_24-4\bai4\bin\Debug\net7.0\bai4.dll
+E:\SUMMER_2023\C#\csharp_24-4\bai4\bin\Debug\net7.0\bai4.pdb
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.csproj.AssemblyReference.cache
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.AssemblyInfoInputs.cache
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.AssemblyInfo.cs
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.csproj.CoreCompileInputs.cache
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.dll
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\refint\bai4.dll
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.pdb
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\bai4.genruntimeconfig.cache
+E:\SUMMER_2023\C#\csharp_24-4\bai4\obj\Debug\net7.0\ref\bai4.dll
